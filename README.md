@@ -27,4 +27,4 @@ Remove unnecessary precision?
 
 This could all remain as Version 5
 
-I suggest that V06 would be different resolution, such as 100x100 or 20x20
+I suggest that V0.6 would be different resolution, such as 100x100 or 20x20
